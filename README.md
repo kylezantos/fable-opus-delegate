@@ -33,6 +33,12 @@ This saves **Fable tokens, not total tokens**. Each Opus subagent has to re-read
 ## Install
 
 ```sh
+npx skills add kylezantos/fable-opus-delegate
+```
+
+Or clone it manually:
+
+```sh
 git clone https://github.com/kylezantos/fable-opus-delegate ~/.claude/skills/delegate
 ```
 
